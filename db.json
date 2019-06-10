@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": 1559933632439,
+      "text": "VueJS",
+      "done": true
+    },
+    {
+      "id": 1559933641174,
+      "text": "NodeJs",
+      "done": false
+    },
+    {
+      "id": 1559933646973,
+      "text": "AdonisJS",
+      "done": false
+    }
+  ],
+  "activities_subscriptions": []
+}
