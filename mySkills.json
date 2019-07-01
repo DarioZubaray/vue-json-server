@@ -1,0 +1,283 @@
+{
+   "skills": [
+        {
+            "WebTechnologies": {
+                "Basic": {
+                    "HTML5": {
+                        "Platform-Interface": "DOM",
+                        "Extenxions": ["html","htm","xhtml","xht"],
+                        "SnippetPlugin": "Emmet",
+                        "Pre-processors": "jade/pug"
+                    },
+                    "CSS3": {  
+                        "Pre-processors":["Less","Sass","stylus"],
+                        "Modules": ["Grid Layout","FlexBox","Medias Queries","Animations","Transitions"],
+                        "Methodology": ["BEM", "SMACSS", "OOCSS"]
+                    }
+                },
+                "Scripting": {
+                    "LanguageEspecification": {
+                        "ECSMAScript": ["EC5","EC6","EC2016","EC2017","EC2018"]
+                    },
+                    "LanguageInterpreted": {  
+                        "Javascript": {
+                            "Techniques": "AJAX",
+                            "StandardFileFormat": "JSON",
+                            "Libraries": ["JQuery","JQueryUI","moment.js","sweetAlert2","popover.js","math.js","easytimer.js","Modernizr","AngularJs"],
+                            "Build tools": ["webpackjs", "gulpjs"]
+                        },
+                        "TypeScript": {
+                            "Frameworks": [
+                                "Angular2-7"
+                            ]
+                        },
+                        "Framework": {  
+                            "VueJs": [  
+                                "Router",
+                                "Vuex",
+                                "Vuetify",
+                                "Nuxt",
+                                {"Libraries": ["vee-validate","vue-axios","Bootstrap-vue","vuejs-datepicker","vuex-persist"]}
+                            ]
+                        }
+                    }
+                },
+                "Graphics": ["SVG", "WebGL"],
+                "CSSFrameworkWeb": ["Blueprint css","Bootstrap 3-4","Materialize","Bulma CSS"],
+                "Protocols": {
+                    "InternetLayer": "IP",
+                    "TransportLayer": ["TCP","UDP"],
+                    "ApplicationLayer": ["HTTP/HTTPS","FTP","SSH","SMTP","POP","DNS"]
+                },
+                "Browser": [
+                    {"Google-Chrome": "Extensions/Add ons"},
+                    "Mozilla Firefox",
+                    "Internet Explorer/Edge",
+                    "Opera",
+                    "Zetakey",
+                    "Safari"
+                ],
+                "Tools": {  
+                    "Editors": ["Atom","Notepad++","SublimeText","VisualCode"],
+                    "Compiler": ["Koala-app","Prepros"]
+                }
+            }
+        },
+        {
+            "Programming": {
+                "Language": [
+                    {
+                        "Java": {
+						    "versions": ["6","7","8","9"],
+                            "Platform": [
+                                {"J2SE": ["JNI","JNDI","Swing","JDBC","Java Web Start","Applet"]},
+                                {"J2EE": ["Java Mail","Servlet","JSP","JSTL","JSF","EJB","JPA","JTA","JAXB","JAX-RS","JAX-WS"]}
+                            ],
+							"JVMImplementation": ["Sun/Oracle JVM HotSpot", "OpenJDK"],
+                            "Frameworks":{  
+                                "Web":[  
+                                    {"JSF": ["RichFaces","PrimeFaces"]},
+                                    "Struts 1-2",
+                                    {"Spring": ["Spring MVC","Spring Security","SpringBoot"]},
+                                    "Play Framework 2",
+									"Vaadin",
+									"Google Web Toolkit",
+									{
+										"Microframeworks": ["javalin", "spark", "ktor"]
+									}
+                                ],
+                                "Persistence": ["Hibernate","EclipseLink","Spring Data","JDO","MyBatis"],
+								"ContextDependencyInjection": ["Spring Core", "Weld CDI"],
+                                "Logging": ["SLF4J","Log4j 1-2","Logback", "java util logging"],
+                                "Testing": [
+                                    "Junit",
+                                    {
+                                        "mock": ["Mockito","Jmock","EasyMock"]
+                                    },
+									{
+									    "coverage": ["jacoco", "EclEmma"]
+									},
+									"Spring Test",
+                                    "Selenium driver/ide"
+                                ]
+                            },
+							"TemplateEngine": ["Tiles", "Velocity", "Freemaker", "Thymeleaf"],
+                            "ViewTechnology-Libraries": [  
+                              "Apache FOP",
+                              "Apache POI",
+                              "Itext",
+                              "Jackson",
+                              "Jersey",
+                              "SuperCSV",
+                              "dom4j",
+                              "Xstream",
+                              "Jasper"
+                            ],
+                            "SoftwareBuilder": ["Maven","Ant","Gradle"],
+                            "Servers": [
+                                {"ServletContainers" : ["Tomcat", "Jetty"]},
+                                "JBoss-Wildfly",
+                                "Glassfish"
+                            ],
+                            "CloudPlatform": ["Heroku","AWS"],
+                            "Metrics": ["JConsole","JMeter","VisualVM"],
+                            "Tools": ["SoapUI","PostMan","CoachRegex","Java Decompiler","Proguard GUI"],
+                            "InnerLangs": {
+                                "groovy":"",
+                                "scala":"",
+                                "kotlin":""
+                            }
+                        }
+                    },
+                    { 
+                        "Python": [
+                            {"versions": ["2.7","3.6"]},
+                            {"Web": ["Web2Py","Django","Flask"]},
+                            {"Desktop-Mobile": "Kyvi"}
+                        ]
+                    },
+					{
+					    "Ruby"
+					},
+                    {
+						"C#"
+					},
+                    "Batch File"
+                ],
+				{
+					"DataBases": {  
+						"Language":{  
+							"SQL":[
+								"MySQL",
+								"MariaDB",
+								"MS SQL Server/CE",
+								"SQLite",
+								"PostgreSQL",
+								"IBM Informix",
+								"Teradata",
+								{"Embebed":["H2","Derby","HSQL"]}
+							],
+							"No-SQL":["MongoDB","Cassandra","Firebase"]
+						},
+						"Principles": ["ACID", "BASE"],
+						"Tools":["MqSQL Workbench","SQL Server Management Studio","sqlitebrowser","Squirrel SQL","Toad for SQL","Compact View"]
+					}
+				},
+                "IDE": [{"Eclipse": ["STS","Scala ide"]},{"NetBeans": ["iReport"]},{"IntelliJIDEA": ["PyCharm", "AndroidStudio"]},"Visual Studio"]
+            }
+        },
+		"WebServices": [  
+			{"SOAP": ["WSDL","UDDI"]},
+			"Rest-Restful"
+		],
+		{"Architecture": ["MVC","MVVM","SOA","Microservices"]},
+		{"PatternDesign": [
+			{
+				"Patterns": {  
+				   "behavioural": ["Chain of responsability","Command","Interpreter","Iterator","Mediator","Memento","Observer","State","Strategy","Template Method","Visitor"],
+				   "creational": ["Abstract factory","builder","Factory method","Prototype","Singleton"],
+				   "structural": ["Adapter","Bridge","Composite","Decorator","Facade","Flyweight","Proxy"],
+				   "J2EE-Patterns": [  
+					  "Business delegate", "Composite entity", "DAO", "Front controller", "Intercepting filter", "Service locator", "Transfer object"
+				   ]
+				}
+			},
+			{
+				"Anti-Patterns": ["God"]
+			}
+		]},
+		{"SoftwareEngineeringPractices": {
+			"TDD": "Test-Driven Development", 
+			"BDD": "Behavoir-Driven Development",
+			"DDD": "Domain-Driven Development",
+			"ATDD": "Acceptance Test-Driven Development",
+			"FDD": "Feature-Driven Development"
+		}},
+		{"MessagingPatterns": [  
+			"File Transfer",
+			"Shared Database",
+			"Remote Procedure Invocation",
+			{"Messaging":"ActiveMQ"}
+		]},
+		{"Paradigms": [
+			"Orientado a objetos",
+			"Orientado a aspectos",
+			"Scripting",
+			"estructurado",
+			"imperativo",
+			"funcional",
+			"genérico"
+		]},
+        {"VersionControl": ["Svn",{"Git": ["Git Alias"]},"Bridge Git-svn", "Mercurial"]},
+        {"ContinuosIntegration": "Jenkins"},
+        {"ContinuosInspection": ["SonarQube","SonarLint"]},
+        {"AgileMethodologies": ["Scrum","Kanban","Cristal","eXtreme Programming","DSDM"]},
+        {"Administrative": ["Jira Software","Trello","RedMine","GitLab"]},
+        {"OperatingSystem": [  
+            {"Windows": ["Home/Professional","Server"]},
+            {"Linux": ["Ubuntu","Debian","Suse"]}
+        ]},
+        {
+            "Bibliography": [
+                {
+                    "title": "Dessign Patterns",
+                    "subtitle": "Elements of reusable object-oriented software",
+                    "authors": ["Erich Gamma", "Richard Helm", "Ralph Jhonson", "Jhon Vlissides"],
+					"pages": "351",
+                    "year": "1994"
+                },
+                {
+                    "title": "Effective Java, Third edition",
+                    "subtitle": "The java series from the source",
+                    "authors": ["Joshua Bloch"],
+					"pages": "0",
+                    "year": "2015"
+                },
+                {
+                    "title": "Clean Code",
+                    "subtitle": "A Handbook of Agile software craftmanship",
+                    "authors": ["Robert C Martin"],
+					"pages": "0",
+                    "year": "2008"
+                },
+                {
+                    "title": "Building Microservice",
+                    "subtitle": "Design fine-grained system",
+                    "authors": ["San Newman"],
+					"pages": "0",
+                    "year": "2015"
+                },
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "authors": [],
+					"pages": "0",
+                    "year": ""
+                }
+            ]
+        },
+		{
+		    "Courses": ["EducacionIT", "Udemy", "SoloLear", "Codecademy", "Coursera", "Pluralsight", "Khanacademy", "TreeHouse", "CodeSchool"]
+		},
+		{
+		    "Certification": []
+		}
+    ]
+}
+
+				/*
+				antipatterns
+				persistence: criteria, specification, querydsl-jooq
+				quartz, spring batch
+				dozer, lombok, dom4j, launch4j, Zxing, barcode4j
+				sitemesh
+				google code styling / editorconfig
+				Web API: notification, geolocalization, navigator, cookies, localStorage, indexedDB
+				Custom elements, microframeworks
+				javascript test: mocha, chai, jasmin, storybook
+				-nodejs
+				-angular
+				-ruby
+				-c#
+				object-oriented design principles (solid)
+				*/"

@@ -1,0 +1,37 @@
+29	3	Servicios Web SOAP con JAX-WS,Spring,Hibernate y OSB 	Alex Salomé 	3,8(178) 	10,99	119,99
+38	3	Fundamentos de Gradle para aplicaciones Java 	Domingo Sebastian 	4,4(27) 	11,99	104,99
+170	18	Java EE with Vaadin, Spring Boot and Maven 	Holczer Balazs 	4,3(789) 	11,99	199,99
+98	11,5	Desarrollo web en Google Web Toolkit - GWT 	Javier Arturo Vázquez Olivares 	4,0(20) 	11,99	79,99
+128	13,5	The Complete Apache Groovy Developer Course 	Dan Vega 	4,4(1.491) 	11,99	199,99
+50	15	Rock the JVM! Scala and Functional Programming for Beginners 	Daniel Ciocîrlan 	4,6(2.385) 	11,99	99,99
+25	6,5	Procesando el Big Data con Apache Spark (en español) 	Tomás Fernández Pena 	4,1(204) 	11,99	99,99
+80	12,5	Learn JMETER from Scratch on Live Apps -Performance Testing 	Rahul Shetty 	4,4(2.553) 	11,99	149,99
+						
+103	8,5	Docker, de principiante a experto 	Ricardo Andre Gonzalez Gomez 	4,4(1.086) 	11,99	119,99
+44	2,5	Jenkins Curso Intensivo para DevOps y Desarrolladores. 	Mirror Class, Harold Mantilla, Tao W. 	4,1(407) 	11,99	149,99
+						
+22	2,5	Webpack 2: Guía definitiva (Español) 	Academia Abamar 	3,7(54) 	10,99	39,99
+232	25,5	React JS + Redux + ES6. Completo ¡De 0 a experto! (español) 	Ing. Emiliano Ocariz 	4,4(2.087) 	12,99	109,99
+214	23	Angular & Spring 5: Creando web app full stack (Angular 8+) 	Andrés José Guzmán 	4,7(610) 	12,99	199,99
+304	27	Angular Avanzado: Lleva tus bases al siguiente nivel - MEAN 	Fernando Herrera 	4,8(2.198) 	12,99	199,99
+94	8	Angular: Aplicaciones en tiempo real con sockets y rest 	Fernando Herrera 	4,8(396) 	11,99	199,99
+37	3,5	Desarrollo de aplicaciones PWA con Vuejs y Quasar Framework 	Israel Parra 	4,5(34) 	11,99	199,99
+157	13,5	REDUX en Angular con NGRX: Desde las bases hasta la práctica 	Fernando Herrera 	4,9(631) 	11,99	199,99
+67	6,5	Aprende MongoDB - La mejor Base de Datos NoSQL desde cero 	Grover Vásquez 	4,3(142) 	11,99	149,99
+						
+122	11	Curso Completo Ruby - Desde las Bases hasta Rails 	Aldo Olivares 	4,0(216) 	11,99	199,99
+103	12	Curso Práctico de Django: Aprende Creando 3 Webs 	Héctor Costa Guzmán 	4,6(1.122) 	11,99	199,99
+285	42,5	Programación de Android desde Cero +35 horas Curso COMPLETO 	Jose Javier Villena 	4,3(11.319) 	12,99	199,99
+330	47,5	Android y Kotlin Desde Cero a Profesional Completo +45 horas 	Juan Villalvazo, Marcos Rivas 	4,2(726) 	12,99	199,99
+228	42,5	Python para Android, iOS, Windows, Linux y Mac - Desde Cero 	Cláudio Rogério Carvalho Filho 	4,3(532) 	12,99	179,99
+38	2,5	Automatiza tu navegador. Selenium WebDriver con Python. 	Gabriel Serrano, MBA 	4,3(169) 	11,99	99,99
+232	48	Curso completo de Machine Learning: Data Science en Python 	Juan Gabriel Gomila Salas 	4,6(2.419) 	12,99	199,99
+						
+190	14	C# Curso Completo para ser programador 	Alam Mancera 	4,5(589) 	11,99	199,99
+37	6	ASP.NET MVC 5 + VueJS: desarrolla una web de cursos online 	Eduardo Patiño 	4,2(185) 	11,99	49,99
+116	23,5	Crea sistemas web ASP. Net Core MVC, Entity Framework - Ajax 	Juan Carlos Arcila Díaz, Alex Joel Pagoada Suazo 	4,1(1.117) 	12,99	139,99
+						
+44	9,5	Ciberseguridad Todo en Uno 	Daniel Espinonsa 	3,9(74) 	11,99	19,99
+82	12	Aprende a usar Arduino desde cero: crea tus proyectos 	Jose Antonio Vacas Martinez 	4,3(1.255) 	11,99	99,99
+296	35,5	Master en Programación de Videojuegos con Unity® 2019 y C# 	Mariano Rivas, Master Devs 	4,5(8.132) 	12,99	194,99
+108	7	Conviértete en desarrollador Blockchain con Ethereum 	Carlos Landeras 	4,5(454) 	11,99	94,99

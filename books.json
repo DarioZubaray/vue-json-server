@@ -1,0 +1,60 @@
+        {
+            "Bibliography": [
+                {
+                    "title": "Dessign Patterns",
+                    "subtitle": "Elements of reusable object-oriented software",
+                    "authors": ["Erich Gamma", "Richard Helm", "Ralph Jhonson", "Jhon Vlissides"],
+					"pages": "351",
+                    "year": "1994"
+                },
+                {
+                    "title": "Effective Java, Third edition",
+                    "subtitle": "The java series from the source",
+                    "authors": ["Joshua Bloch"],
+					"pages": "0",
+                    "year": "2015"
+                },
+                {
+                    "title": "Clean Code",
+                    "subtitle": "A Handbook of Agile software craftmanship",
+                    "authors": ["Robert C Martin"],
+					"pages": "0",
+                    "year": "2008"
+                },
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "authors": [],
+					"pages": "0",
+                    "year": ""
+                },
+                {
+                    "title": "Building Microservice",
+                    "subtitle": "Design fine-grained system",
+                    "authors": ["San Newman"],
+					"pages": "0",
+                    "year": "2015"
+                },
+                {
+                    "title": "",
+                    "subtitle": "",
+                    "authors": [],
+					"pages": "0",
+                    "year": ""
+                },
+            ]
+        },
+"				-Java concurrency in practice
+				-Modern Java Recipes
+				-Core Java SE 9 for impatient
+				Java 9 Modularity
+				Cloud Native Java
+				-Exploring java 9
+				-Clean Architecture
+				-Spring in Action: 5th Edition
+				-Java persistence with hibernate
+				-Mastering unit testing using mockito and junit
+				-Pro git
+				-Programming in scala
+				-Making java groovy
+				-Kotlin in Action
