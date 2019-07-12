@@ -137,7 +137,11 @@
                         ]
                     },
 					{
-					    "Ruby"
+					    "Ruby": [
+							{"version": "^2.5.X"},
+							{"Web": "Rails"}
+							
+						]
 					},
                     {
 						"C#"
@@ -212,7 +216,7 @@
         {"ContinuosIntegration": "Jenkins"},
         {"ContinuosInspection": ["SonarQube","SonarLint"]},
         {"AgileMethodologies": ["Scrum","Kanban","Cristal","eXtreme Programming","DSDM"]},
-        {"Administrative": ["Jira Software","Trello","RedMine","GitLab"]},
+        {"Administrative": ["Jira Software","Trello","RedMine","GitLab", "Slack"]},
         {"OperatingSystem": [  
             {"Windows": ["Home/Professional","Server"]},
             {"Linux": ["Ubuntu","Debian","Suse"]}
@@ -239,20 +243,6 @@
                     "authors": ["Robert C Martin"],
 					"pages": "0",
                     "year": "2008"
-                },
-                {
-                    "title": "Building Microservice",
-                    "subtitle": "Design fine-grained system",
-                    "authors": ["San Newman"],
-					"pages": "0",
-                    "year": "2015"
-                },
-                {
-                    "title": "",
-                    "subtitle": "",
-                    "authors": [],
-					"pages": "0",
-                    "year": ""
                 }
             ]
         },
@@ -268,8 +258,10 @@
 				/*
 				antipatterns
 				persistence: criteria, specification, querydsl-jooq
-				quartz, spring batch
+				sorting-algorithms(bubble sort, insertion sort, quicksort, etc)
+				quartz, spring batch, spring jdbc, spring jmsTemplate, apache dbcp
 				dozer, lombok, dom4j, launch4j, Zxing, barcode4j
+				json web token
 				sitemesh
 				google code styling / editorconfig
 				Web API: notification, geolocalization, navigator, cookies, localStorage, indexedDB
